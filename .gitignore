@@ -216,3 +216,28 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Datasets
+*.csv
+*.xlsx
+*.xls
+*.json
+*.xml
+*.parquet
+*.h5
+*.hdf5
+*.pkl
+*.pickle
+
+# Large files / archives
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# Image datasets (for OpenCV practice)
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.tiff
