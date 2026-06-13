@@ -1,2 +1,2 @@
 # python-learning
-A structured documentation of my Python learning journey, covering core Python, NumPy, Pandas, Matplotlib, Seaborn,  Scikit-Learn, Librosa, and OpenCV. Includes notes, practice  scripts, and mini projects for each library.
+Learning Python by doing what every programmer does: writing code, googling errors, fixing code, creating new errors, and repeating the cycle. This repository contains my notes, practice scripts, and projects along the way.
