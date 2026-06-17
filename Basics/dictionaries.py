@@ -11,7 +11,7 @@
 student = {'name' : 'John' , 'age' : 25 , 'courses' : ['Math', 'CompSci']}
 print(student)
 
-# wanna access name
+# want to access name
 print(student['name'])
 print(student['courses'])
 
@@ -19,7 +19,7 @@ print(student['courses'])
 # but what if we don't want it to throw an error everythime we try to access a key which doesn't exist, what if we want it to return none or a default value
 # for this we can access using the get method
 
-print(student.get('phone')) # by fdefault the get method returns 'None' instead of an error, and we can also change this default value
+print(student.get('phone')) # by default the get method returns 'None' instead of an error, and we can also change this default value
 
 print(student.get('phone', 'Not found')) # 2nd argument will be the default of doesn't exist
 
