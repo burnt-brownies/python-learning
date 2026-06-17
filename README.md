@@ -1,2 +1,5 @@
 # python-learning
-Learning Python by doing what every programmer does: writing code, googling errors, fixing code, creating new errors, and repeating the cycle. This repository contains my notes, practice scripts, and projects along the way.
+A collection of notes, experiments, mini-projects, and occasional programming adventures as I learn Python.
+
+## Basics
+**Project:** [BreadBoard](https://github.com/burnt-brownies/bread-board) - A CLI sourdough logbook created after I started learning Python and making sourdough at roughly the same time.
